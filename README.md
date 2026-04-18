@@ -8,7 +8,7 @@ Built with Python and Streamlit, deployed on Streamlit Community Cloud.
 
 ## Live Demo
 
-[Click here to view the app](https://share.streamlit.io)
+[Click here to view the app]https://pos-analyzer-nigeria-7esqtzaid3vrd3yneznj83.streamlit.app/
 
 ---
 
